@@ -25,12 +25,12 @@ The analysis is carried out on 112 mb dataset which consists of features mention
 
 ## Guidelines
 
-**Notebook_0**: Notebook 0 is the summary of 4D data science project that includes Design, Discover, Develop, Deploy. All the steps included in this project.[Link]https://github.com/moni2096/Salary-prediction-through-job-descriptions/blob/master/0_Summary_DS_Project.ipynb
+**Notebook_0**: Notebook 0 is the summary of 4D data science project that includes Design, Discover, Develop, Deploy. All the steps included in this project.[Link](https://github.com/moni2096/Salary-prediction-through-job-descriptions/blob/master/0_Summary_DS_Project.ipynb)
 
-**Notebook_1**: Notebook 1 is the Exploratory Data Analysis and Data Preprocessing Process. [LINK] https://github.com/moni2096/Salary-prediction-through-job-descriptions/blob/master/1_Define_EDA.ipynb
+**Notebook_1**: Notebook 1 is the Exploratory Data Analysis and Data Preprocessing Process. [LINK] (https://github.com/moni2096/Salary-prediction-through-job-descriptions/blob/master/1_Define_EDA.ipynb)
 
 **Notebook_2**: Notebook 2 is the Data Modeling Process and Hypothesizing solutions and testing them on 20% test set. [LINK] 
-https://github.com/moni2096/Salary-prediction-through-job-descriptions/blob/master/2_Data_Modeling.ipynb
+(https://github.com/moni2096/Salary-prediction-through-job-descriptions/blob/master/2_Data_Modeling.ipynb)
 
 
 
