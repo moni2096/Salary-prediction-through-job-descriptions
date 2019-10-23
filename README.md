@@ -31,7 +31,7 @@ The analysis is carried out on 112 mb dataset which consists of features mention
 
 **Notebook_2**: Notebook 2 is the Data Modeling Process and Hypothesizing solutions and testing them on 20% test set. [Check here](https://github.com/moni2096/Salary-prediction-through-job-descriptions/blob/master/2_Data_Modeling.ipynb)
 
-**Notebook_3**: Notebook 3 will be uploaded very soon. Currently with Feature Engineering the MSE achieved is 353. Trying to improe MSE.
+**Notebook_3**: Notebook 3 will be uploaded very soon. Currently with Feature Engineering the MSE achieved is 353. Trying to improve MSE.
 
 
 
