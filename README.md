@@ -30,9 +30,13 @@ The data was clean mostly. I tried to explore and check for null and duplicate v
 This process is heart of any data science project. It usually helps to gain valuable insights from the data which you can further leverage while builduing your model. Some of the processes that I applied to data are mentione below:
 
  **Checking for Outlier using IQR**
+
  **Determining Length and Data Types to summarize categorical and numerical features**
+ 
  **Visualizing Target Variables**
+ 
  **Builduing Heatmap to check co-relation between various features** 
+ 
  **Supporting analysis of heatmap by visualizing features with highest correlation with target variable**
  
 Below are some of the images from EDA. The first one is of the heatmap while the other two are of the features that change the most with target variables.
