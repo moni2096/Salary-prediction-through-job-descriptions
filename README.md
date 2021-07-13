@@ -1,4 +1,4 @@
-# Salary prediction through job descriptions
+# Salary prediction using job descriptions
 ## Introduction
 According to the survey done by Techwire found [here](https://www.wraltechwire.com/2019/03/27/were-very-underpaid-say-56-of-tech-workers-in-survey/) 56% of the US employees think that they are underpaid. Predicting salary of an employee is an importanat aspect for business's HR and talent function. The aim of this project is to build a predictive analysis application in python that can be used to predict the salaries of an employee. The Human Resource as well as Talent Acquisition department can use this modeling to predict salaries of the employee. All the job seeking professionals can put these application in use while job seeking.
 
